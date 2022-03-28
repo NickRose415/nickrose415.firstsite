@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbBd8abF7cbb231d827F8350ee9246BDbed00aff7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbBd8abF7cbb231d827F8350ee9246BDbed00aff7",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Creepz Chica V2",
+  "SYMBOL": "CBC",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/creepz-chica-v2",
+  "SHOW_BACKGROUND": true
+}
